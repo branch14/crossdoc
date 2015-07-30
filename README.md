@@ -29,7 +29,7 @@ Now head over to 4567 and start documenting
 
 ## Screenshot
 
-...
+![Screenshot of a question](question.png)
 
 ## Notes on development
 
