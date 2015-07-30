@@ -1,0 +1,20 @@
+text:
+  start: "Let's start..."
+  continue: Continue
+  row: feature
+  column: role
+  question: |
+    What level of permission does the %s
+    require when accessed by %s?
+  save: Save and next
+  na: '-'
+  stats: "%s of %s, %s more"
+columns:
+  - Admin
+  - Moderator
+  - Member
+  - Anonymous
+rows:
+  - Create a new post
+  - Edit any post
+  - Delete any post
